@@ -6,6 +6,11 @@ This project integrates **OpenCV**, **YOLOv5 object detection**, and a custom **
 
 ![Parking Lot Reference](assets/parkinglot.png)
 
+
+### Demo 
+
+![Example Demo](assets/example_demo.png)
+
 ---
 
 ## Key Technical Features
