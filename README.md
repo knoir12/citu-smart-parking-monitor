@@ -1,5 +1,8 @@
 # CIT-U Smart Parking Slot Detection & Monitoring System
 
+### Example
+![Example System Output](assets/example_demo.png)
+
 A Python-based real-time parking occupancy monitoring application and computer vision controller developed at **Cebu Institute of Technology – University (CIT-U)**. 
 
 This project integrates **OpenCV**, **YOLOv5 object detection**, and a custom **CustomTkinter** desktop dashboard to monitor campus parking zones, track live slot availability, and visualize angled parking bay occupancy in real time.
@@ -23,6 +26,7 @@ This project integrates **OpenCV**, **YOLOv5 object detection**, and a custom **
 ```text
 citu-smart-parking-monitor/
 ├── assets/
+│   ├── example_demo.png          # Live screenshot of GUI + YOLOv5 detection output
 │   ├── logo.png                  # Application icon & branding
 │   └── parkinglot.png            # Aerial reference view of the monitored parking zone
 ├── src/
